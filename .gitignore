@@ -1,0 +1,14 @@
+# Virtual environment
+/ems
+
+# Python cache files
+**/*.pyc
+**/__pycache__/
+
+# Environment files
+.env
+.env.production
+.env.development
+
+# Keep the example file
+!.env.example
